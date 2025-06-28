@@ -1,0 +1,129 @@
+
+<!DOCTYPE html> /*    /index.html   200
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Merit Brains Counselling | Talk Therapy & Life Coaching</title>
+
+  <!-- ✅ SEO Meta Tags -->
+  <meta name="description" content="Professional counselling services by Devashish Samanta at Merit Brains. Specializing in individual, couples, and family therapy via talk therapy." />
+  <meta name="keywords" content="counselling, therapy, talk therapy, mental health support, life coach, NLP, Devashish Samanta, Merit Brains, India, online counselling" />
+  <link rel="canonical" href="https://www.meritbrains.com/" />
+  <meta name="language" content="English" />
+
+  <!-- 🌐 Open Graph Meta (for social sharing) -->
+  <meta property="og:title" content="Merit Brains Counselling Services" />
+  <meta property="og:description" content="Empowering your mental well-being through personalized talk therapy and coaching. Book your session today." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.meritbrains.com/" />
+  <meta property="og:image" content="https://www.meritbrains.com/og-image.jpg" />
+
+  <!-- 🔎 Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CounselingService",
+    "name": "Merit Brains Counselling",
+    "description": "Counselling and talk therapy sessions offered by certified life coach Devashish Samanta.",
+    "url": "https://www.meritbrains.com/",
+    "email": "devashish.samanta@gmail.com",
+    "telephone": "+91 9831625458",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "IN"
+    }
+  }
+  </script>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans bg-gray-50 text-gray-800">
+
+<!-- Navbar -->
+<header class="bg-white shadow sticky top-0 z-50">
+  <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+    <h1 class="text-xl font-bold">Merit Brains</h1>
+    <nav class="space-x-4">
+      <a href="#home" class="hover:text-blue-500">Home</a>
+      <a href="#about" class="hover:text-blue-500">About</a>
+      <a href="#services" class="hover:text-blue-500">Services</a>
+      <a href="#contact" class="hover:text-blue-500">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- Hero Section -->
+<section id="home" class="text-center py-20 bg-blue-100">
+  <h2 class="text-4xl font-bold mb-4">Welcome to Merit Brains Counselling Services</h2>
+  <p class="text-lg mb-6">Supporting your mental well-being using Talk Therapy, one session at a time.</p>
+  <a href="#contact" class="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600">Book a Session</a>
+</section>
+
+<!-- About Section -->
+<section id="about" class="max-w-4xl mx-auto py-16 px-4">
+  <h2 class="text-3xl font-semibold mb-4">About Us</h2>
+  <div class="text-gray-700 space-y-4">
+    <p>Merit Brains is a professional counselling service offering personalised support for individuals, couples, and families. I, Devashish Samanta, as your counsellor, will listen and guide you through life's challenges with empathy and expertise.</p>
+    <p><strong>Your Professional Friend You Can Trust.</strong></p>
+    <p>At Merit Brains, I conduct one-to-one counselling and help you through your mental journey. I have completed BBA and MBA, and have experience working in the corporate world. As I have an interest in human psychology, I gained expertise in this field by obtaining certifications like Certified Life Coach and NLP Practitioner. I have counselled children and adults and helped them achieve meaningful outcomes during sessions. You may not have control over external factors, but if you can change your internal attitude, everything around you will start to change.</p>
+  </div>
+</section>
+
+<!-- Services Section -->
+<section id="services" class="bg-white py-16 px-4">
+  <div class="max-w-6xl mx-auto">
+    <h2 class="text-3xl font-semibold text-center mb-8">Our Services</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mb-8">
+      <div class="bg-gray-100 p-6 rounded shadow">
+        <h3 class="text-xl font-bold mb-2">Individual Therapy</h3>
+        <p>One-on-one sessions to explore your emotions, thoughts, and personal growth.</p>
+      </div>
+      <div class="bg-gray-100 p-6 rounded shadow">
+        <h3 class="text-xl font-bold mb-2">Couples Counselling</h3>
+        <p>Support for couples to improve communication and strengthen relationships.</p>
+      </div>
+      <div class="bg-gray-100 p-6 rounded shadow">
+        <h3 class="text-xl font-bold mb-2">Family Therapy</h3>
+        <p>Helping families build harmony, understanding, and resolve collective challenges.</p>
+      </div>
+    </div>
+    <div class="bg-gray-100 p-6 rounded shadow mb-8">
+      <h3 class="text-xl font-bold mb-2">Talk Therapy</h3>
+      <p>Open conversation around stress, anxiety, decision-making, and life transitions.</p>
+    </div>
+    <div class="bg-gray-100 p-6 rounded shadow">
+      <h3 class="text-xl font-bold mb-2">Mode of Counselling</h3>
+      <ul class="list-disc pl-5 space-y-2">
+        <li><strong>Direct Call:</strong> 1–1.5 hours, ₹600</li>
+        <li><strong>Video Call:</strong> 1–1.5 hours, ₹600</li>
+        <li><strong>Home Visit:</strong> Duration depends, ₹2000</li>
+      </ul>
+      <p class="mt-4 font-semibold">📞 Call / WhatsApp / SMS: +91 9831625458</p>
+      <p class="font-semibold">✉️ Email: <a href="mailto:devashish.samanta@gmail.com" class="text-blue-600 hover:underline">devashish.samanta@gmail.com</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="py-16 px-4 bg-blue-50">
+  <div class="max-w-2xl mx-auto">
+    <h2 class="text-3xl font-semibold mb-4">Contact Us</h2>
+    <p class="mb-4 text-gray-600">Ready to take the first step? Reach out and we'll connect you with the right support.</p>
+    <form class="space-y-4" action="#" method="POST">
+      <input type="text" name="fullname" placeholder="Full Name" class="w-full p-3 border rounded" required />
+      <input type="email" name="email" placeholder="Email Address" class="w-full p-3 border rounded" required />
+      <textarea name="message" placeholder="Your Message" rows="4" class="w-full p-3 border rounded" required></textarea>
+      <button type="submit" class="bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600">Send Message</button>
+    </form>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="bg-gray-800 text-white text-center py-4">
+  <p>&copy; 2025 Merit Brains. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
